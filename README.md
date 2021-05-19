@@ -1,7 +1,7 @@
 # About Me
 Hi All! I am Ishan, a committed coder who can also play a guitar! I love to code and have interestes in Machine Learning and Deep Learning.
   
-In my github account you will find a multitude of projects from the implementation of boosting models to implementing deep learning architextures from scratch.
+In my github account you will find a multitude of projects from the implementation of boosting models to implementing deep learning architectures from scratch.
   
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ishandutta0098)
 
