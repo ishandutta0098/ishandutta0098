@@ -25,7 +25,7 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ishandutta0098
 ## Technology Stack
 <img align="left" alt="C/C++" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
 <img align="left" alt="Python" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="PyTorch" width="30px" height="30px" src="https://blog.paperspace.com/content/images/2019/10/pytorch-logo-1.png"/>
+<img align="left" alt="PyTorch" width="35px" height="30px" src="https://blog.paperspace.com/content/images/2019/10/pytorch-logo-1.png"/>
 <img align="left" alt="Tensorflow" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
 <img align="left" alt="FastAI" width="40px" height="30px" src="https://buzz-prod-photos.global.ssl.fastly.net/img/87a50dce-a64d-4747-b152-30f2f13e80ef"/>
 <img align="left" alt="SQL" width="35px" height="30px" src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg"/>
