@@ -8,7 +8,7 @@ I am active on a number of Hackathon platforms and have secured Global Ranks in 
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ishandutta0098)
 
 ## My Experience:
--> **NVIDIA** | Deep Learning Intern - _May '21 to Present_                                                                      
+-> <img align="left" alt="C/C++" width="30px" height="30px" src="https://media-exp1.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_100_100/0/1561949205873?e=1629331200&v=beta&t=ERigwI9HFueRslL0xdhy0C4owS_oU4MrTc53fMp4Km0"/> **NVIDIA** | Deep Learning Intern - _May '21 to Present_                                                                      
 - Implementing various state-of-the-art Deep Learning architectures on Image and Text data and optimizing training time.
 
 -> **Indian Institute of Technology, Kanpur** | Machine Learning Intern - _May '21 to Present_                                   
