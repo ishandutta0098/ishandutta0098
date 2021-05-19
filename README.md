@@ -23,5 +23,5 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ishandutta0098
 - [youtubeLikeCountPrediction](https://github.com/ishandutta0098/youtubeLikeCountPrediction) | Solution to Youtube Like Count Prediction Analytics Vidhya HackLive 2
 
 ## Technology Stack
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>]
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>]
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
