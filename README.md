@@ -9,13 +9,13 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ishandutta0098
 
 ## My Experience:
 <img align="left" alt="C/C++" width="30px" height="30px" src="https://media-exp1.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_100_100/0/1561949205873?e=1629331200&v=beta&t=ERigwI9HFueRslL0xdhy0C4owS_oU4MrTc53fMp4Km0"/> **NVIDIA** | Deep Learning Intern - _May '21 to Present_                                                                      
-<br       />Implementing various state-of-the-art Deep Learning architectures on Image and Text data and optimizing training time.   
+- - Implementing various state-of-the-art Deep Learning architectures on Image and Text data and optimizing training time.   
 
 <img align="left" alt="C/C++" width="30px" height="30px" src="https://media-exp1.licdn.com/dms/image/C510BAQEhNteRFbyBdQ/company-logo_100_100/0/1581071973102?e=1629331200&v=beta&t=LdX8h-PVzXFMrAGZ2ONU6GtSMG9D1LVaUTusT-SfSDU"/> **Indian Institute of Technology, Kanpur** | Machine Learning Intern - _May '21 to Present_                                   
-Designing a Time Series Forecasting Model to predict upcoming Covid-19 wave peaks. 
+- - Designing a Time Series Forecasting Model to predict upcoming Covid-19 wave peaks. 
 
 <img align="left" alt="C/C++" width="30px" height="30px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEq9uBM_HL3Rw/company-logo_100_100/0/1519896769158?e=1629331200&v=beta&t=0rDj5vOFy7_ybtWQfuw9BBx7b4jUHC_KqvfLFk9NbQg"/>**Indian Institute of Technology, Ropar** | Research Intern - _June '20 to August '20_                                        
-Developed a Deep Learning Model to create a behaviour classifier for 11 Million+ StackExchange users. 
+- - Developed a Deep Learning Model to create a behaviour classifier for 11 Million+ StackExchange users. 
 
 ## Repositories that I loved to create the most - 
 - [paper-implementations](https://github.com/ishandutta0098/paper-implementations) | Implementation of Research Papers and Notes on them.
