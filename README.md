@@ -6,13 +6,13 @@ In my github account you will find a multitude of projects from the implementati
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ishandutta0098)
 
 ## My Experience:
--> **NVIDIA** | _Deep Learning Intern - May '21 to Present_
+-> **NVIDIA** | _Deep Learning Intern_                                                                      May '21 to Present
 - Implementing various state-of-the-art Deep Learning architectures on Image and Text data and optimizing training time.
 
--> **Indian Institute of Technology, Kanpur** | _Machine Learning Intern - May '21 to Present_
+-> **Indian Institute of Technology, Kanpur** | _Machine Learning Intern_                                   May '21 to Present
 - Designing a Time Series Forecasting Model to predict upcoming Covid-19 wave peaks
 
--> **Indian Institute of Technology, Ropar** | _Research Intern - June '20 to August '20_
+-> **Indian Institute of Technology, Ropar** | _Research Intern_                                        June '20 to August '20
 - Developed a Deep Learning Model to create a behaviour classifier for 11 Million+ StackExchange users.
 
 ## Repositories that I loved to create the most - 
