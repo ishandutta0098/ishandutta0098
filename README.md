@@ -22,6 +22,13 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ishandutta0098
 - [entity-extraction](https://github.com/ishandutta0098/entity-extraction) | Entity Extraction using BERT
 - [youtubeLikeCountPrediction](https://github.com/ishandutta0098/youtubeLikeCountPrediction) | Solution to Youtube Like Count Prediction Analytics Vidhya HackLive 2
 
+
+## GitHub Stats
+
+<p>
+    <img class="center" alt="GitHub Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ishandutta0098.ishandutta0098"/>
+</p>
+
 <p align="center">
 <a href="https://github.com/ishandutta0098">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishandutta0098&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
