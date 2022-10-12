@@ -1,9 +1,5 @@
 # About Me
-Hi, I am Ishan a Passionate Machine Learning Coder who can play a guitar!
-
-I am currently a Machine Learning Engineer at Metadome AI where we are building a metaverse to provide immersive experiences for the virtual world.
-  
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ishandutta0098) | [Twitter](https://twitter.com/ishandutta0098)
+Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar!
 
 ## My Experience:
 
