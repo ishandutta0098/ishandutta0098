@@ -26,6 +26,12 @@ Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar!
 - National Top 1% in NPTEL (IIT-Madras) Python Programming Exam with 99% Score
 - National Top 1% in NPTEL (IIT-Kharagpur) C Programming Exam with 99% Score
 
+## Top Kaggle Notebooks
+- [HuBMAP 🧠: Complete Understanding and EDA | W&B](https://www.kaggle.com/code/ishandutta/hubmap-complete-understanding-and-eda-w-b)
+- [[V7]Shopee InDepth EDA:One stop for all your needs](https://www.kaggle.com/code/ishandutta/v7-shopee-indepth-eda-one-stop-for-all-your-needs)
+- [PetFinder: Data Augmentations Master Notebook](https://www.kaggle.com/code/ishandutta/petfinder-data-augmentations-master-notebook)
+- [🧬Sartorius:🧬 InDepth EDA + Explanation + Model](https://www.kaggle.com/code/ishandutta/sartorius-indepth-eda-explanation-model)
+
 ## GitHub Stats
 
 <p>
