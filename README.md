@@ -1,27 +1,18 @@
 # About Me
-Hi All ! I am Ishan, a committed coder who can also play a guitar! I love to code and have interestes in Machine Learning and Deep Learning.
-  
-Here you will find a multitude of projects, ranging from the implementation of boosting models to implementing deep learning architectures from scratch.
+Hi, I am Ishan a Passionate Machine Learning Coder who can play a guitar!
 
-I am active on a number of Hackathon platforms and have secured Global Ranks in Top 25 a couple of times as well :-)
+I am currently a Machine Learning Engineer at Metadome AI where we are building a metaverse to provide immersive experiences for the virtual world.
   
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ishandutta0098)
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ishandutta0098) | [Twitter](https://twitter.com/ishandutta0098)
 
 ## My Experience:
- **NVIDIA** | Deep Learning Intern - _May '21 to Present_                                                                      
-- - Implementing various state-of-the-art Deep Learning architectures on Image and Text data and optimizing training time.   
 
-**Indian Institute of Technology, Kanpur** | Machine Learning Intern - _May '21 to Present_                                   
-- - Designing a Time Series Forecasting Model to predict upcoming Covid-19 wave peaks. 
-
-**Indian Institute of Technology, Ropar** | Research Intern - _June '20 to August '20_                                        
-- - Developed a Deep Learning Model to create a behaviour classifier for 11 Million+ StackExchange users. 
-
-## Repositories that I loved to create the most - 
-- [paper-implementations](https://github.com/ishandutta0098/paper-implementations) | Implementation of Research Papers and Notes on them.
-- [entity-extraction](https://github.com/ishandutta0098/entity-extraction) | Entity Extraction using BERT
-- [youtubeLikeCountPrediction](https://github.com/ishandutta0098/youtubeLikeCountPrediction) | Solution to Youtube Like Count Prediction Analytics Vidhya HackLive 2
-
+- **Metadome AI** | Machine Learning Engineer - *Feb 2022 - Ongoing*
+- **Weights and Biases**, USA | Dev Expert - *Aug 2021 - Ongoing*  
+- **Jarvislabs AI** | Global Brand Ambassador - *Nov 2021 - Ongoing*  
+- **NVIDIA** | Deep Learning Intern - *May 2021 to Aug 2021*                                 
+- **Indian Institute of Technology, Kanpur** | Machine Learning Intern - *May 2021 to Aug 2021*    
+- **Indian Institute of Technology, Ropar** | Research Intern - *June 2020 to August 2020*                       
 
 ## GitHub Stats
 
