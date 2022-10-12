@@ -17,6 +17,15 @@ Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar!
 <a href="https://twitter.com/ishandutta0098" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 <a href="https://www.kaggle.com/ishandutta" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
 <a href="https://wandb.ai/ishandutta" target="_blank"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="W&B"></a>
+
+## Key Achievements:
+- 1st Position and Prize of INR 1 Lakh in [Unreal Engine Metaverse Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:6963713338170060800/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6963713338170060800%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29) by Metadome AI
+- National Rank 12 amongst 10,000+ Competitors in the [Amazon Machine Learning Challenge 2021](https://www.hackerearth.com/login/?next=/challenges/competitive/amazon-ml-challenge/instructions/)
+- Global Rank 21 (Silver Medal - Top 1%) in [Kaggle Shopee Price Match Guarantee Competition](https://www.kaggle.com/competitions/shopee-product-matching/overview)
+- Global Rank 13 in Analytics Vidhya [Hacklive 2 Hackathon](https://www.kaggle.com/competitions/shopee-product-matching/overview)
+- National Top 1% in NPTEL (IIT-Madras) Python Programming Exam with 99% Score
+- National Top 1% in NPTEL (IIT-Kharagpur) C Programming Exam with 99% Score
+
 ## GitHub Stats
 
 <p>
