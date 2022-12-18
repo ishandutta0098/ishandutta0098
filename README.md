@@ -38,8 +38,11 @@ Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar!
     <img class="center" alt="GitHub Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ishandutta0098.ishandutta0098"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishandutta0098&theme=blueberry_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<p align="center"> 
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishandutta0098&theme=blueberry_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+    <br>
+</p>    
+   
 <p align="center">
 <a href="https://github.com/ishandutta0098">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishandutta0098&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="GitHUb Stats"/>
