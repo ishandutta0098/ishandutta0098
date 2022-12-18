@@ -43,8 +43,6 @@ Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar!
     <br>
 </p>
 
-
-blueberry_duo&date_format=j%20M%5B%20Y%5D
    
 <p align="center">
 <a href="https://github.com/ishandutta0098">
