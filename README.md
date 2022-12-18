@@ -40,7 +40,6 @@ Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar!
 
 <p align="center"> 
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishandutta0098&theme=blueberry_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-    <br>
 </p>    
    
 <p align="center">
