@@ -46,7 +46,6 @@ Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar!
    
 <p align="center">
 <a href="https://github.com/ishandutta0098">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishandutta0098&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="GitHUb Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishandutta0098&show_icons=true&bg_color=00000000" alt="GitHUb Stats"/>
 </a></p>
 <br>
-
