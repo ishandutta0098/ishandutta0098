@@ -48,6 +48,4 @@ Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar!
     <br>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=ishandutta0098&count_private=true&show_icons=true&count_private=true)
-
 Following are some of the repositories that I have contributed to and/or contribute to.
