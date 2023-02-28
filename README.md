@@ -24,8 +24,6 @@ Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar!
 - National Rank 12 amongst 10,000+ Competitors in the [Amazon Machine Learning Challenge 2021](https://www.hackerearth.com/login/?next=/challenges/competitive/amazon-ml-challenge/instructions/)
 - Global Rank 21 (Silver Medal - Top 1%) in [Kaggle Shopee Price Match Guarantee Competition](https://www.kaggle.com/competitions/shopee-product-matching/overview)
 - Global Rank 13 in Analytics Vidhya [Hacklive 2 Hackathon](https://www.kaggle.com/competitions/shopee-product-matching/overview)
-- National Top 1% in NPTEL (IIT-Madras) Python Programming Exam with 99% Score
-- National Top 1% in NPTEL (IIT-Kharagpur) C Programming Exam with 99% Score
 
 ## Top Kaggle Notebooks
 - [HuBMAP 🧠: Complete Understanding and EDA | W&B](https://www.kaggle.com/code/ishandutta/hubmap-complete-understanding-and-eda-w-b)
