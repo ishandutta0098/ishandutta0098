@@ -9,8 +9,7 @@ Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar!
 - **Jarvislabs AI** | Global Brand Ambassador - *Nov 2021 - Ongoing*  
 - **Metadome AI** | Machine Learning Engineer - *Feb 2022 - Jan 2023*
 - **NVIDIA** | Deep Learning Intern - *May 2021 to Aug 2021*                                 
-- **Indian Institute of Technology, Kanpur** | Machine Learning Intern - *May 2021 to Aug 2021*    
-- **Indian Institute of Technology, Ropar** | Research Intern - *June 2020 to August 2020*                       
+- **Indian Institute of Technology, Kanpur** | Machine Learning Intern - *May 2021 to Aug 2021*                       
 
 ## Contact:
 
