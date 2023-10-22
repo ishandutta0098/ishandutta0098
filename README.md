@@ -5,7 +5,7 @@ Hi, I am Ishan a Passionate Deep Learning Researcher who can play a guitar 🎸 
   
 - [**Rephrase AI**](https://www.rephrase.ai/) | Deep Learning Researcher - *Jan 2023 - Ongoing*
 - [**Lightning AI**](https://lightning.ai/) | Lightning League Member - *Feb 2023 - Ongoing*
-- [**Weights and Biases**](wandb.ai), USA | Dev Expert - *Aug 2021 - Ongoing*  
+- [**Weights and Biases**](https://wandb.ai/), USA | Dev Expert - *Aug 2021 - Ongoing*  
 - [**Jarvislabs AI**](jarvislabs.ai) | Global Brand Ambassador - *Nov 2021 - Ongoing*  
 - [**Metadome AI**](metadome.ai) | Machine Learning Engineer - *Feb 2022 - Jan 2023*
 - [**NVIDIA**](nvidia.com) | Deep Learning Intern - *May 2021 to Aug 2021*                                 
