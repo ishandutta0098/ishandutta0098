@@ -8,7 +8,7 @@ Hi, I am Ishan a Passionate Deep Learning Researcher who can play a guitar 🎸 
 - [**Weights and Biases**](https://wandb.ai/), USA | Dev Expert - *Aug 2021 - Ongoing*  
 - [**Jarvislabs AI**](https://jarvislabs.ai/) | Global Brand Ambassador - *Nov 2021 - Ongoing*  
 - [**Metadome AI**](https://www.metadome.ai/) | Machine Learning Engineer - *Feb 2022 - Jan 2023*
-- [**NVIDIA**](nvidia.com) | Deep Learning Intern - *May 2021 to Aug 2021*                                 
+- [**NVIDIA**](https://www.nvidia.com/) | Deep Learning Intern - *May 2021 to Aug 2021*                                 
 - [**Indian Institute of Technology, Kanpur**](https://www.iitk.ac.in/) | Machine Learning Intern - *May 2021 to Aug 2021*                       
 
 ## Contact:
