@@ -1,5 +1,5 @@
 # About Me
-Hi, I am Ishan a Passionate Deep Learning Researcher who can play a guitar 🎸 !
+Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar 🎸 !
 
 ## My Experience:
 
@@ -26,12 +26,6 @@ Hi, I am Ishan a Passionate Deep Learning Researcher who can play a guitar 🎸 
 - National Rank 12 amongst 10,000+ Competitors in the [Amazon Machine Learning Challenge 2021](https://www.hackerearth.com/login/?next=/challenges/competitive/amazon-ml-challenge/instructions/)
 - Global Rank 21 (Silver Medal - Top 1%) in [Kaggle Shopee Price Match Guarantee Competition](https://www.kaggle.com/competitions/shopee-product-matching/overview)
 - Global Rank 13 in Analytics Vidhya [Hacklive 2 Hackathon](https://www.kaggle.com/competitions/shopee-product-matching/overview)
-
-## Top Kaggle Notebooks
-- [HuBMAP 🧠: Complete Understanding and EDA | W&B](https://www.kaggle.com/code/ishandutta/hubmap-complete-understanding-and-eda-w-b)
-- [V7 Shopee InDepth EDA:One stop for all your needs](https://www.kaggle.com/code/ishandutta/v7-shopee-indepth-eda-one-stop-for-all-your-needs)
-- [PetFinder: Data Augmentations Master Notebook](https://www.kaggle.com/code/ishandutta/petfinder-data-augmentations-master-notebook)
-- [🧬Sartorius:🧬 InDepth EDA + Explanation + Model](https://www.kaggle.com/code/ishandutta/sartorius-indepth-eda-explanation-model)
 
 ## GitHub Stats
 
