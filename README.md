@@ -22,7 +22,6 @@ Hi, I am Ishan a Passionate Machine Learning Engineer who can play a guitar 🎸
 <a href="https://wandb.ai/ishandutta" target="_blank"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="W&B"></a>
 
 ## Key Achievements:
-- 1st Position and Prize of INR 1 Lakh in [Unreal Engine Metaverse Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:6963713338170060800/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6963713338170060800%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29) by [Metadome AI](https://www.metadome.ai/)
 - National Rank 12 amongst 10,000+ Competitors in the [Amazon Machine Learning Challenge 2021](https://www.hackerearth.com/login/?next=/challenges/competitive/amazon-ml-challenge/instructions/)
 - Global Rank 21 (Silver Medal - Top 1%) in [Kaggle Shopee Price Match Guarantee Competition](https://www.kaggle.com/competitions/shopee-product-matching/overview)
 - Global Rank 13 in Analytics Vidhya [Hacklive 2 Hackathon](https://www.kaggle.com/competitions/shopee-product-matching/overview)
